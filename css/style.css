@@ -44,12 +44,7 @@
         .section-icon-glow { 
              box-shadow: 0 0 20px rgba(0, 212, 255, 0.15);
         }
-        
-        /* Scrollbar styling */
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: #0a0a0f; }
-        ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #334155; }
+    
         
         /* Image hover zoom container */
         .img-zoom-container { overflow: hidden; }
